@@ -21,7 +21,7 @@ It provides:
 
 ### Weather Dashboard Overview
 
-![Dashboard](./image/dashboard.png)
+![Dashboard](./Image/dashboard.png)
 
 ## Features
 
@@ -106,7 +106,7 @@ It provides:
 
 ---
 
-### 📱 Responsive Design
+### Responsive Design
 
 - Fully responsive layout:
   - Desktop: 3 columns
