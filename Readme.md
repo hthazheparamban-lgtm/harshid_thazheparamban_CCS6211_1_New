@@ -106,7 +106,7 @@ It provides:
 
 ---
 
-### 📱 Responsive Design
+### Responsive Design
 
 - Fully responsive layout:
   - Desktop: 3 columns
