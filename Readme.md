@@ -21,7 +21,7 @@ It provides:
 
 ### Weather Dashboard Overview
 
-![Dashboard](./image/dashboard.png)
+![Dashboard](./Image/dashboard.png)
 
 ## Features
 
